@@ -1,0 +1,14 @@
+C:\Users\840HP\source\repos\TemplateFormMyp\TemplateFormMyp\bin\Debug\TemplateFormMyp.exe.config
+C:\Users\840HP\source\repos\TemplateFormMyp\TemplateFormMyp\bin\Debug\TemplateFormMyp.exe
+C:\Users\840HP\source\repos\TemplateFormMyp\TemplateFormMyp\bin\Debug\TemplateFormMyp.pdb
+C:\Users\840HP\source\repos\TemplateFormMyp\TemplateFormMyp\bin\Debug\Guna.UI.dll
+C:\Users\840HP\source\repos\TemplateFormMyp\TemplateFormMyp\bin\Debug\Guna.UI2.dll
+C:\Users\840HP\source\repos\TemplateFormMyp\TemplateFormMyp\obj\Debug\TemplateFormMyp.csprojAssemblyReference.cache
+C:\Users\840HP\source\repos\TemplateFormMyp\TemplateFormMyp\obj\Debug\TemplateFormMyp.Form1.resources
+C:\Users\840HP\source\repos\TemplateFormMyp\TemplateFormMyp\obj\Debug\TemplateFormMyp.Properties.Resources.resources
+C:\Users\840HP\source\repos\TemplateFormMyp\TemplateFormMyp\obj\Debug\TemplateFormMyp.csproj.GenerateResource.cache
+C:\Users\840HP\source\repos\TemplateFormMyp\TemplateFormMyp\obj\Debug\TemplateFormMyp.csproj.CoreCompileInputs.cache
+C:\Users\840HP\source\repos\TemplateFormMyp\TemplateFormMyp\obj\Debug\TemplateFormMyp.csproj.CopyComplete
+C:\Users\840HP\source\repos\TemplateFormMyp\TemplateFormMyp\obj\Debug\TemplateFormMyp.exe
+C:\Users\840HP\source\repos\TemplateFormMyp\TemplateFormMyp\obj\Debug\TemplateFormMyp.pdb
+C:\Users\840HP\source\repos\TemplateFormMyp\TemplateFormMyp\obj\Debug\TemplateFormMyp.ViewUno.resources
